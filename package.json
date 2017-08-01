@@ -1,9 +1,13 @@
 {
   "name": "atom-img",
   "main": "./lib/atom-img",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "adds an img in a tooltip under an img link or path.",
-  "keywords": ["image", "img", "tooltip"],
+  "keywords": [
+    "image",
+    "img",
+    "tooltip"
+  ],
   "activationCommands": {},
   "repository": "https://github.com/leon-4A6C/atom-img",
   "license": "MIT",
