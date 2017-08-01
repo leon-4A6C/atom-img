@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "atom-img",
+          "submenu": [
+            {
+              "label": "nothing",
+              "command": "bla"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
