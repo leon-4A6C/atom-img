@@ -5,7 +5,7 @@
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {},
-  "repository": "https://github.com/atom/atom-img",
+  "repository": "https://github.com/leon-4A6C/atom-img",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
